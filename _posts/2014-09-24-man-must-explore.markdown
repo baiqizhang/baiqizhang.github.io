@@ -1,23 +1,19 @@
 ---
 layout:     post
-title:      "Man must explore, and this is exploration at its greatest"
+title:      "A talk with Bowen Zhang"
 subtitle:   "Problems look mighty small from 150 miles up"
 date:       2014-09-24 12:00:00
-author:     "Start Bootstrap"
+author:     "Baiqi Zhang"
 header-img: "img/post-bg-06.jpg"
 ---
 
-<p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
+<p>Talked with Bowen who is working on FB+Yelp-like startup full-time. He is very confident and talkative.  </p>
 
-<p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
+<p>He said the best VC looks for personality, and they look for strength in the founding team. A so-so team is not acceptable. </p>
 
-<p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
+<p>I failed to answer his question about where I am entirely unique. But he know I am unique because during the orientation day I am the only Chinese that talked with everyone.Alice replied that I have the initiative and could persist. She told me that I got the power to do bigger things, but right now I just like a lion playing with wool ball like a cat. Maybe I indeed lack the confidence and start losing my inner power during this long vacation.</p>
 
-<p>A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
-
-<p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
-
-<h2 class="section-heading">The Final Frontier</h2>
+<!-- <h2 class="section-heading">The Final Frontier</h2>
 
 <p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
 
@@ -40,4 +36,4 @@ header-img: "img/post-bg-06.jpg"
 
 <p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
 
-<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
+<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p> -->
