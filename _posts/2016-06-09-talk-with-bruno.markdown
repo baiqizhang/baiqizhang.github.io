@@ -1,18 +1,11 @@
 ---
 layout:     post
-title:      "A talk with Bruno"
+title:      "A Talk with BS"
 subtitle:   ""
 date:       2016-06-09 21:35:00
 author:     "Baiqi Zhang"
 header-img: "img/home-bg.jpg"
 ---
-
-#A test
-
-<p>Talked with Bruno</p>
-
-<h2 class="section-heading">His startup</h2>
-
 <p>His startup at 2007 was about an embedded yacht interior device control system with a mobile interface. The idea originated from his work experience in car industry. 3 of his partner quit and the only one left was his close friend in undergrad.</p>
 
 

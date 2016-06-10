@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "A talk with Bowen Zhang"
+title:      "A Talk with BZ"
 subtitle:   ""
 date:       2016-06-01 11:00:00
 author:     "Baiqi Zhang"
@@ -9,11 +9,11 @@ header-img: "img/home-bg.jpg"
 
 #A test
 
-<p>Talked with Bowen who is working on FB+Yelp-like startup full-time. He is very confident and talkative.  </p>
+<p>Talked with BZ who is working on FB+Yelp-like startup full-time. He is very confident and talkative.  </p>
 
 <h2 class="section-heading">His startup</h2>
 
-<p>Bowen's startup was about finding the best food by the recommendation of similar people - friends or people from the same home country. His biggest challen</p>
+<p>BZ's startup was about finding the best food by the recommendation of similar people - friends or people from the same home country. His biggest challen</p>
 
 <h2 class="section-heading">CopyCat Problems</h2>
 
