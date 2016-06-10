@@ -20,4 +20,4 @@ $GIT_PATH commit -m "Auto update on $NOW"
 $GIT_PATH push
 #
 # Show a notification.
-$OSA_PATH -e 'display notification "SQL script repository updated" with title "Auto commit"'
+$OSA_PATH -e 'display notification "Blog repository updated" with title "Auto commit"'

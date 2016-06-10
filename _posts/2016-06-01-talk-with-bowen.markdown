@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "A talk with Bowen Zhang"
-subtitle:   "Startups and founding teams"
+subtitle:   ""
 date:       2016-06-01 11:00:00
 author:     "Baiqi Zhang"
 header-img: "img/home-bg.jpg"
