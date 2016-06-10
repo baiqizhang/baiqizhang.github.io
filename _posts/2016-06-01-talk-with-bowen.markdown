@@ -1,17 +1,29 @@
 ---
 layout:     post
 title:      "A talk with Bowen Zhang"
-subtitle:   "Problems look mighty small from 150 miles up"
-date:       2014-09-24 12:00:00
+subtitle:   "Startups and founding teams"
+date:       2016-06-01 11:00:00
 author:     "Baiqi Zhang"
-header-img: "img/post-bg-06.jpg"
+header-img: "img/home-bg.jpg"
 ---
+
+#A test
 
 <p>Talked with Bowen who is working on FB+Yelp-like startup full-time. He is very confident and talkative.  </p>
 
+<h2 class="section-heading">His startup</h2>
+
+<p>Bowen's startup was about finding the best food by the recommendation of similar people - friends or people from the same home country. His biggest challen</p>
+
+<h2 class="section-heading">CopyCat Problems</h2>
+
 <p>He said the best VC looks for personality, and they look for strength in the founding team. A so-so team is not acceptable. </p>
 
+<h2 class="section-heading">Founder traits</h2>
+
 <p>I failed to answer his question about where I am entirely unique. But he know I am unique because during the orientation day I am the only Chinese that talked with everyone.Alice replied that I have the initiative and could persist. She told me that I got the power to do bigger things, but right now I just like a lion playing with wool ball like a cat. Maybe I indeed lack the confidence and start losing my inner power during this long vacation.</p>
+
+<p>Although many tech founders are introverts by themselves, it is always worth to practice speaking with confident and fluency, just like Bowen. When I meet Hang Song later this month, I'll try to learn that by imitate Bowen. Good luck to myself </p>
 
 <!-- <h2 class="section-heading">The Final Frontier</h2>
 

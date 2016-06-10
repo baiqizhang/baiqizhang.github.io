@@ -1,15 +1,15 @@
 # Site settings
 title: Bits and Wires
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-copyright_name: Your/Project/Corporate Name
+email: baiqizhang.xjtu@gmail.com
+copyright_name: Baiqi Zhang
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: ""
 url: "http://baiqizhang.github.io"
 twitter_username: CopyCatPhoto
 github_username:  baiqizhang
 facebook_username:  baiqizhangcmu
-email_username:  baiqizhang@gmail.com
+email_username:  baiqizhang.xjtu@gmail.com
 
 # Build settings
 markdown: kramdown
